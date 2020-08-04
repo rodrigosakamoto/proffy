@@ -20,6 +20,7 @@
     ],
     "rules": {
         "prettier/prettier": "error",
+        "camelcase": "off",
         "import/extensions": [
             "error",
             "ignorePackages",
