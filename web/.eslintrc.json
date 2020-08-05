@@ -33,6 +33,7 @@
       "jsx-a11y/label-has-associated-control": "off",
       "react/jsx-props-no-spreading": "off",
       "react/jsx-curly-newline": "off",
+      "camelcase": "off",
       "react/prop-types": "off",
       "import/extensions": [
         "error",
