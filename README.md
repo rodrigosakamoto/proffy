@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="./web/src/assets/images/logo.svg" width="300" />
+	<img src=".github/logo.svg" width="300" />
 </h1>
 
 <h3 align="center">Proffy - aplicação que tem como objetivo conectar alunos e professores.</h3>
